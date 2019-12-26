@@ -1,0 +1,39 @@
+{
+    "topics": [{
+            "title": "ความรู้พื้นฐานทางด้านคอมพิวเตอร์",
+            "exams": [{
+                "question_type": "text",
+                "question_text": "หน่วยเก็บความจำที่ติดต่อกับ CPU ได้เร็วที่สุดคืออะไร",
+                "question_img": "",
+                "choices": [{
+                        "choice_type": ["text", "img", "textimg"],
+                        "choice_text": "CD-ROM",
+                        "choice_img": "1001ch1.jpg",
+                        "is_answer": false
+                    },
+                    {
+                        "choice_type": "text",
+                        "choice_text": "HARD DISK",
+                        "choice_img": "",
+                        "is_answer": false
+                    },
+                    {
+                        "choice_type": "text",
+                        "choice_text": "SD RAM",
+                        "choice_img": "",
+                        "is_answer": false
+                    },
+                    {
+                        "choice_type": "text",
+                        "choice_text": "REGISTER",
+                        "choice_img": "",
+                        "is_answer": true
+                    }
+                ]
+            }]
+        },
+        {
+            "title": "ชนิดของข้อมูล"
+        }
+    ]
+}
